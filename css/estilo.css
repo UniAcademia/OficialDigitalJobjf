@@ -1,0 +1,111 @@
+body {
+    margin-top: 55px;
+}
+
+.banner-principal {
+    margin-bottom: 10px;
+}
+
+.introducao-dj {
+    text-align: center;
+    padding: 25px;
+    background-color: aliceblue;
+}
+
+.introducao-dj h3 {
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+.conteudo {
+    margin-top: 35px;
+    margin-bottom: 35px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.img-texto-card {
+    margin: auto;
+    text-align: center;
+}
+
+.texto-card {
+    text-align: center;
+    margin: auto;
+}
+
+.info {
+    margin: 5px;
+}
+
+.footer {
+    min-height: 130px;
+    background-color: aliceblue;
+    text-align: center;
+    align-content: center;
+    padding: auto;
+    padding-bottom: 30px;
+    margin-bottom: 0px;
+}
+
+.icon {
+    max-width: 150px;
+    max-height: 150px;
+    margin-top: 5px;
+}
+
+.legenda-footer {
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+.modelo-curriculo {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    padding-top: 30px;
+    padding-bottom: 25px;
+    border: 1px solid black;
+}
+
+.nome-candidato-curriculo h5 {
+    margin: auto;
+    text-align: center;
+}
+
+.cabecalho-curriculo p {
+    margin: auto;
+    text-align: center;
+}
+
+.conteudo-curriculo {
+    margin-top: 10px;
+    margin-left: 5px;
+}
+
+.conteudo-curriculo h5 {
+    margin-top: 15px;
+}
+
+.titulo-lista-portifolio {
+    padding: 15px;
+    text-align: center;
+    background-color: aliceblue;
+}
+
+.titulo-lista-portifolio h3 {
+    margin: auto;
+}
+
+.info-listas p {
+    margin: auto;
+    text-align: center;
+}
+
+.info-listas img {
+    padding: 50px;
+}
+
+.texto-info-lista {
+    margin: auto;
+}
